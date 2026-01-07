@@ -1,3 +1,4 @@
+<!-- Greeting -->
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px" alt="👋">
 > I am **[Yaa Chay](https://yaachay.github.io)**.
 >
@@ -7,8 +8,10 @@
 > - *Desktop Development (ElectronJS, JavaFX, ADO.Net)*
 > - *Backend Development (NodeJS, Python)*
 
-![yaachay](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaachay&layout=compact&langs_count=8&theme=nightowl)
+<!-- Top Languages -->
+![TopLanguages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaachay&layout=compact&langs_count=8&theme=nightowl)
 
+<!-- Technical Skills -->
 ## ⛳️ Technical Skills
 > ### Programming
 | Name              | Progress       
@@ -46,8 +49,12 @@
 - Socket.io
 - Play Store & App Store
 
+<!-- Contact Informations -->
 ## 📫  Contact Info
 
 Phone        : (+95)9 405 999 313 
 
 Email        : yachay498@gmail.com
+
+<!-- Contribution Grap -->
+![ContributionGrap](https://github-readme-activity-graph.vercel.app/graph?username=yaachay&theme=green)
