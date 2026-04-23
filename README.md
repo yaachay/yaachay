@@ -11,6 +11,10 @@
 <!-- Top Languages -->
 ![TopLanguages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaachay&layout=compact&langs_count=8&theme=nightowl)
 
+<!--
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,ts,html,css,lit,react,vue,svelte,python,rust,cpp,cs,ps,ai,blender,sketchup,threejs,aws,postgres,django,flutter,figma,electron)](https://skillicons.dev) 
+--!>
+
 <!-- Technical Skills -->
 ## ⛳️ Technical Skills
 > ### Programming
